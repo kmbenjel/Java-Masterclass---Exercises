@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Main {
+public class MinimumElementChallenge {
     public static void main(String[] args) {
         int[] userIntegers = readIntegers();
         System.out.println("Inputted numbers: " + Arrays.toString(userIntegers));
